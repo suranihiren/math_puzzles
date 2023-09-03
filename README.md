@@ -1,6 +1,6 @@
 # mathspuzzle1
 
-[A new Flutter project.](https://github.com/suranihiren/math_puzzles/issues/1#issue-1879060876)
+https://github.com/suranihiren/math_puzzles/assets/129385340/70a5a2e7-a049-46b0-a5af-4c2d8a20bcfe
 
 ## Getting Started
 
